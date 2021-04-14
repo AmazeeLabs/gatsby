@@ -1,0 +1,8 @@
+{
+  "name": "amazeelabs/gatsby",
+  "type": "drupal-module",
+  "description": "Gatsby integration for Drupal",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "stable",
+  "version": "1.0"
+}

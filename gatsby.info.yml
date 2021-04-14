@@ -1,0 +1,4 @@
+name: "Gatsby"
+type: module
+description: "Gatsby integration for Drupal."
+core_version_requirement: ^8 || ^9
